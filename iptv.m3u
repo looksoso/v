@@ -63,13 +63,11 @@ http://110.72.75.162:8181/tsfile/live/0108_1.m3u8
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
-#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
-http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="卫视",SET iNews
 http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
 #EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="卫视",SET iNews
 http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",中天新聞
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视",中天新聞
 http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="卫视",FTV News (民视新闻台)
 http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
