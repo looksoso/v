@@ -1,0 +1,184 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.251.35.10:4022/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.157.41:8888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.158.105:8888/udp/239.76.246.134:1234
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.157.41:8888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.158.105:8888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.158.105:8888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.159.7:8888/udp/239.76.246.134:1234
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.159.7:8888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.200.3:8888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.200.3:8888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.251.35.10:4022/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.158.105:8888/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.159.7:8888/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.200.3:8888/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.200.67:8888/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://118.254.157.41:8888/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://110.72.75.162:8181/tsfile/live/0108_1.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://113.64.145.231:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://112.19.171.156:9999/udp/239.93.0.162:2192
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://222.217.243.135:8181/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+https://taoiptv.com/iptv.php?id=500100&sign=303101
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://103.95.24.37:880/fhws.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://113.64.145.195:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+http://118.251.35.10:4022/udp/239.76.246.134:1234
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://118.254.157.41:8888/udp/239.76.246.134:1234
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://118.254.158.105:8888/udp/239.76.246.7:1234
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://118.254.200.3:8888/udp/239.76.246.134:1234
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://118.254.157.41:8888/udp/239.76.253.134:9000
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://118.254.158.105:8888/udp/239.76.253.134:9000
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://118.254.159.7:8888/udp/239.76.253.134:9000
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://118.254.200.3:8888/udp/239.76.253.134:9000
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://223.109.210.41/1301-x.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://113.64.145.231:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://113.64.145.195:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://wouu.net:9977/udp/239.93.0.162:2192
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://j.cxctu.cf:4000/udp/239.93.0.162:2192
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://103.95.24.37:880/fhzx.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+https://taoiptv.com/iptv.php?id=500200&sign=303101
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://112.19.171.156:9999/udp/239.93.0.118:2191
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://www.372583307.top:4022/udp/233.50.200.192:5140
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
+http://103.95.24.37:880/fhxgt.m3u8
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
+http://113.64.145.231:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
+http://wouu.net:9977/udp/239.93.0.118:2191
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
+http://103.95.24.37:880/fhxgt.m3u8
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
+http://113.64.145.195:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
+http://113.64.145.91:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
+http://60.164.229.241:4040/udp/239.255.30.123:8231
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视",中天新闻
+http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视",中天新闻
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="卫视",FTV News (民视新闻台)
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="卫视",FTV News (民视新闻台)
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="卫视",FTV News (民视新闻台)
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="卫视",TVBS Asia(TVBS亚洲台)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="卫视",TVBS Asia(TVBS亚洲台)
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="卫视",TVBS Asia(TVBS亚洲台)
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-logo="" group-title="卫视",台视新闻 
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-logo="" group-title="卫视",台视新闻 
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-logo="" group-title="卫视",台视新闻 
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 tvg-id="无线新闻" tvg-logo="" group-title="卫视",无线新闻 
+http://137.175.30.127:9080/hls/inews.m3u8
+#EXTINF:-1 tvg-id="无线新闻" tvg-logo="" group-title="卫视",无线新闻 
+http://zsntlqj.xicp.net:8896/bysid/83
+#EXTINF:-1 tvg-id="无线新闻" tvg-logo="" group-title="卫视",无线新闻
+http://58.176.4.57:8800/play/a00d
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="卫视",FASHION TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="卫视",TVB翡翠台
+http://58.176.4.57:8800/play/a00g
+#EXTINF:-1 group-title="卫视",TVB翡翠台
+http://158.180.67.130/live/hls/J/j.m3u8
+#EXTINF:-1 group-title="卫视",TVB翡翠台 4K
+http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+#EXTINF:-1 group-title="卫视",NBC News Now
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+#EXTINF:-1 group-title="卫视",TVB娱乐新闻台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="卫视",TVB娱乐新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="卫视",TVB娱乐新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="卫视",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="卫视",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="卫视",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="卫视",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="卫视",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="卫视",东森新闻美国
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="卫视",TVB星河台
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="卫视",TVB星河台
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
+#EXTINF:-1 group-title="卫视",TVB星河台
+http://113.64.145.195:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="卫视",TVB J2
+http://58.176.4.57:8800/play/a00c
+#EXTINF:-1 group-title="卫视",TVB明珠台
+http://58.176.4.57:8800/play/a00b
