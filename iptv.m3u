@@ -116,10 +116,6 @@ http://113.64.145.91:8081/hls/38/index.m3u8
 http://60.164.229.241:4040/udp/239.255.30.123:8231
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视",中天新闻
-http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视",中天新闻
-http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="卫视",FTV News (民视新闻台)
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="卫视",FTV News (民视新闻台)
